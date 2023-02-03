@@ -5,7 +5,7 @@
 // alert("hello" + response);
 // let output = document.querySelector("#output");
 // console.log(output);
-output.innerText = response;
+
 
 let yourName = document.querySelector("#yourName");
 let theirName = document.querySelector("#theirName");
